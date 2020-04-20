@@ -6,12 +6,12 @@ languages:
 page_type: sample
 name: ".NET Core parallel animated ray-traced bouncing ball"
 urlFragment: "parallel-programming-winforms-raytracer-cs"
-description: "A .NET Core console application that demonstrates some of the ways PLINQ query execution may be controlled and configured."
+description: "A .NET Core WinForms application that demonstrates an animated, ray-traced bouncing ball with parallel programming."
 ---
 
 # .NET Core parallel programming with PLINQ
 
-The sample source code is a .NET Core console application written in C#, that provides an animated, ray-traced bouncing ball.  Sequential and parallel implementations are provided, as is a special parallel implementation that colors the animated image based on which thread was used to calculate which regions.
+The sample source code is a .NET Core WinForms application written in C#, that provides an animated, ray-traced bouncing ball. Sequential and parallel implementations are provided, as is a special parallel implementation that colors the animated image based on which thread was used to calculate which regions.
 
 ## Demo
 
